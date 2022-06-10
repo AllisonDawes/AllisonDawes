@@ -1,6 +1,6 @@
-<img align="center" alt="dws.soft" height="250" width="1500" src="./panel-logo.png" />
+<img align="center" alt="dws.soft" height="250" width="1290" src="./panel-logo.png" />
 
-<div style="display: inline_block">
+<div style="display: inline_block" align="center">
   <b>Javascript</b>
   <img align="center" alt="allison-Js" height="15" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> |
   <b>Typescript</b>
