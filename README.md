@@ -12,7 +12,6 @@ Essas são as tecnologias com as quais trabalho e estudo atualmente:
 
 <br><br>
 
-Faça contato!
 
 
 
