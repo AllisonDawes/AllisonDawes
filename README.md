@@ -1,4 +1,4 @@
-<img align="center" alt="dws.soft" height="240" width="1290" src="./panel-logo.png" />
+<!--<img align="center" alt="dws.soft" height="240" width="1290" src="./panel-logo.png" />-->
 
 <div style="display: inline_block" align="center">
   <b>Javascript</b>
